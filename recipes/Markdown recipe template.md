@@ -95,3 +95,4 @@ updated_at: 2025-10-16
 
 - For web, also prepare a 1600px wide hero image for fast loading.
 
+
