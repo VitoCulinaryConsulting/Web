@@ -110,7 +110,7 @@ gallery_images:
 videos:
   - ./videos/RCP-0001-hero.mp4
 source_url: https://example.com/original
-author: Jana
+author: Vito
 created_at: 2025-10-16
 updated_at: 2025-10-16
 ---
@@ -157,7 +157,7 @@ You can maintain a spreadsheet and later export as CSV. Suggested columns:
 
 ```
 id,title,slug,cuisine,tags,difficulty,prep_minutes,cook_minutes,servings,hero_image,gallery_images,videos,author,created_at,updated_at
-RCP-0001,Butter Crêpes,crepes-butter,French,"quick|breakfast|base",easy,10,15,2,./RCP-0001-crepes-butter/images/RCP-0001-hero.jpg,"./RCP-0001-crepes-butter/images/RCP-0001-step-01.jpg|./RCP-0001-crepes-butter/images/RCP-0001-step-02.jpg","./RCP-0001-crepes-butter/videos/RCP-0001-hero.mp4",Jana,2025-10-16,2025-10-16
+RCP-0001,Butter Crêpes,crepes-butter,French,"quick|breakfast|base",easy,10,15,2,./RCP-0001-crepes-butter/images/RCP-0001-hero.jpg,"./RCP-0001-crepes-butter/images/RCP-0001-step-01.jpg|./RCP-0001-crepes-butter/images/RCP-0001-step-02.jpg","./RCP-0001-crepes-butter/videos/RCP-0001-hero.mp4",Vito,2025-10-16,2025-10-16
 ```
 
 * Use `|` inside a cell to separate multiple paths for images/videos.
@@ -187,7 +187,7 @@ Create a machine‑friendly overview for scripts or future import:
       "./RCP-0001-crepes-butter/images/RCP-0001-step-02.jpg"
     ],
     "videos": ["./RCP-0001-crepes-butter/videos/RCP-0001-hero.mp4"],
-    "author": "Jana",
+    "author": "Vito",
     "created_at": "2025-10-16",
     "updated_at": "2025-10-16"
   }
